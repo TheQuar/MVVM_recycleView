@@ -1,0 +1,2 @@
+rootProject.name='MVVM recycleView'
+include ':app'
